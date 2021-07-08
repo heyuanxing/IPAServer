@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://www.aliyundrive.com/drive/folder/60e6bd3c79e5f52017d5486998764b13a24d7c61</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://172.17.21.122/archive/Buyer/iOS/YMT-Buyer-iOS-Enterprise/463/icon.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://172.17.21.122/archive/Buyer/iOS/YMT-Buyer-iOS-Enterprise/463/icon.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.ymatou.buyer.enterprise</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>洋码头买家版 (企业证书)</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
